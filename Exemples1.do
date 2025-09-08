@@ -1,5 +1,5 @@
 global pathin "/Users/Aaron/Desktop/StataTraining/Day1/Data/"
-cd $pathin///////////////////
+cd $pathin//////////////////
 * Importer un fichier csv
 insheet using "PEPFAR-Data-Genie-MER-2015-12-19.csv"
 * Macro des variables à conserver
